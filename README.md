@@ -14,9 +14,9 @@
 - The URLs of all pages should follow the REST design pattern
 
 :computer: **What I Did:**
-- With the help of the great site Stack Overflow, I wrote a web application using the Spring framework. The project was successfully defended, and I completed the course successfully.
+- With the help of the great site Stack Overflow, I wrote a web application using the Spring framework. The project was successfully defended, and I completed the education course successfully.
 
-:open_file_folder: **Knowledge Stack I Needed:**
+:open_file_folder: **Knowledge Stack I Used:**
 - HTML/CSS (at a basic level)
 - Java (at a beginner level)
 - Spring (at a beginner level)
