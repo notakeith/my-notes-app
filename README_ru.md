@@ -1,4 +1,6 @@
 <img src="https://img.shields.io/badge/Synergy_Studing_Project-EF3939"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"> <img src="https://img.shields.io/github/license/notakeith/my-notes-app.svg">  
+<sup> [:uk: English version of README](README.md) </sup>
+
 ### Итоговый проект по Java для курса Synergy University
 
 :pencil2: **Задача:** Создать веб-приложение «Заметки», которое позволяет пользователю совершать все операции CRUD (Create Read Update Delete). При этом реализация этих операций должна соответствовать паттерну проектирования REST
